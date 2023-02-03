@@ -1,3 +1,5 @@
+# Info
+This project is TextUtil Project Here for front-end I use HTML, CSS, JAVASCRIPT, REACTJS. Here You can take any paragraph and you can count character, you can change paragraph in upper case, lower case , copy that text and Paste any where and also count the number of words, remove extra space in that paragraph.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
